@@ -528,7 +528,7 @@ export default function StudentResults() {
       {/* Floating GitHub Icon */}
       <div className="fixed bottom-6 right-6 z-50">
         <a
-          href="https://github.com/saiabhiramjaini/ou-results-extractor"
+          href="https://github.com/vaikunta23/ou-results-extractor"
           target="_blank"
           rel="noopener noreferrer"
           className="group relative inline-flex items-center justify-center w-14 h-14 bg-card border-2 border-border rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 hover:border-primary"
