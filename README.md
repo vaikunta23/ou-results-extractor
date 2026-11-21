@@ -53,7 +53,7 @@ A web application built with Next.js and TypeScript for extracting and analyzing
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/saiabhiramjaini/results-extractor.git
+git clone https://github.com/vaikunta23/ou-results-extractor.git
 ```
 
 
@@ -150,12 +150,3 @@ Contributions are welcome! Here's how you can help:
 4. Push to branch: `git push origin feature/YourFeature`
 5. Submit a pull request
 
-## 📞 Contact
-
-Sai Abhiram Jaini - [@saiabhiramjaini](https://github.com/saiabhiramjaini)
-
-Project Link: [https://github.com/saiabhiramjaini/results-extractor](https://github.com/saiabhiramjaini/results-extractor)
-
----
-
-Built by [Sai Abhiram Jaini](https://github.com/saiabhiramjaini)
